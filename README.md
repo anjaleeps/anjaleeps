@@ -2,6 +2,9 @@
 
 I'm a Computer Science and Engineering graduate from the University of Moratuwa, Sri Lanka. I love building software that help people make their lives easier. Currently, I'm especially interested in web development and machine learning. 
 
+### Connect with me 🤝
+<a href="https://www.linkedin.com/in/anjaleesudasinghe/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
 <!--
 **anjaleeps/anjaleeps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
