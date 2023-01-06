@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Anjalee 👋
+
+I'm a Computer Science and Engineering graduate from the University of Moratuwa, Sri Lanka. I love building software that help people make their lives easier. Currently, I'm especially interested in web development and machine learning. 
 
 <!--
 **anjaleeps/anjaleeps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
