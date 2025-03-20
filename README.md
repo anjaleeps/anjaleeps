@@ -1,6 +1,6 @@
 ### Hi, I'm Anjalee 👋
 
-I'm a Computer Science and Engineering graduate from the University of Moratuwa, Sri Lanka. I love building software that help people make their lives easier. Currently, I'm especially interested in web development and machine learning. 
+I'm a AI Software Engineer with a background in advanced natural language processing based on Large Language Models and web development. Expertise in leveraging AI technologies to create production-ready applications. Proficient in Python, Java, Langchain, Pytorch, and web frameworks like Node.js and React.js.
 
 ### My technology stack 🔭
 
